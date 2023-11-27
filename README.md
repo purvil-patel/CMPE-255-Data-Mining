@@ -51,9 +51,11 @@ Notebook: https://colab.research.google.com/drive/1tgHtI9Oscp0j00nkCyJ3bH7nmjVA0
 Dataset: https://www.kaggle.com/datasets/gpiosenka/70-dog-breedsimage-data-set
 
 
-Also uploaded the dataset and the colab notebook over the github.
 **Task i: Write a colab for audio embeddings using imagebind llms**
 
 Notebook: https://colab.research.google.com/drive/1WW_zOH7vQTcjgDPNdLmaEkCj8e92JtK2?usp=sharing
 
 Dataset: https://www.kaggle.com/datasets/mmoreaux/audio-cats-and-dogs
+
+
+Also uploaded the dataset and the colab notebook over the github
